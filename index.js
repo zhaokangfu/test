@@ -1,3 +1,6 @@
-console.log('1Ö÷·ÖÖ§-Ìí¼Óµ±Ç°´úÂë');
+console.log('1ä¸»åˆ†æ”¯-æ·»åŠ å½“å‰ä»£ç ');
+var num=123;
+console.log(num);
+console.log('1ä¸»åˆ†sdfsdfç ');
 var num=123;
 console.log(num);
